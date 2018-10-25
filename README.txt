@@ -9,4 +9,5 @@ Step 3: go to the yadvashem page you would like to copy and press control + a
 
 Step 4: run convert_control_clipboard.py 
 
-Step 5: paste your newly converted data as a source!
+Step 5: paste your newly converted data as a source!  
+# Pastes into Ancestry.com format
