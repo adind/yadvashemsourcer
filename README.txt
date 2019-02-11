@@ -2,7 +2,7 @@ Step 1: install python 3.7
 Download it from https://www.python.org/downloads/ or run the file python-3.7.0.exe (under the Installers folder)
 
 Step 2: run the file install_pyperclip.bat (under the Installers folder)
-# This just runs "python -m pip install pyperclip" 
+# This just runs "python -m pip install pyperclip" if you want to do it yourself
 
 Step 3: go to the yadvashem page you would like to copy and press control + a and then control + c
 
